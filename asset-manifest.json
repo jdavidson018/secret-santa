@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/secret-santa/static/css/main.b100e6da.chunk.css",
+    "main.js": "/secret-santa/static/js/main.acd69837.chunk.js",
+    "main.js.map": "/secret-santa/static/js/main.acd69837.chunk.js.map",
+    "runtime-main.js": "/secret-santa/static/js/runtime-main.ec9bbe7b.js",
+    "runtime-main.js.map": "/secret-santa/static/js/runtime-main.ec9bbe7b.js.map",
+    "static/js/2.6b2e4680.chunk.js": "/secret-santa/static/js/2.6b2e4680.chunk.js",
+    "static/js/2.6b2e4680.chunk.js.map": "/secret-santa/static/js/2.6b2e4680.chunk.js.map",
+    "index.html": "/secret-santa/index.html",
+    "precache-manifest.7e6795a712100554423a4ed96f652158.js": "/secret-santa/precache-manifest.7e6795a712100554423a4ed96f652158.js",
+    "service-worker.js": "/secret-santa/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/secret-santa/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/secret-santa/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec9bbe7b.js",
+    "static/js/2.6b2e4680.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.acd69837.chunk.js"
+  ]
+}
