@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+View project at [https://jdavidson018.github.io/secret-santa/]
 
 ## Available Scripts
 
