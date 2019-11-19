@@ -1,4 +1,4 @@
-View project at [https://jdavidson018.github.io/secret-santa/]
+View project with [Github Pages](https://jdavidson018.github.io/secret-santa/)
 
 ## Available Scripts
 
