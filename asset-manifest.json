@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/secret-santa/static/css/main.830e19f2.chunk.css",
-    "main.js": "/secret-santa/static/js/main.85090e30.chunk.js",
-    "main.js.map": "/secret-santa/static/js/main.85090e30.chunk.js.map",
+    "main.js": "/secret-santa/static/js/main.04666cab.chunk.js",
+    "main.js.map": "/secret-santa/static/js/main.04666cab.chunk.js.map",
     "runtime-main.js": "/secret-santa/static/js/runtime-main.ec9bbe7b.js",
     "runtime-main.js.map": "/secret-santa/static/js/runtime-main.ec9bbe7b.js.map",
     "static/js/2.b5d0a177.chunk.js": "/secret-santa/static/js/2.b5d0a177.chunk.js",
     "static/js/2.b5d0a177.chunk.js.map": "/secret-santa/static/js/2.b5d0a177.chunk.js.map",
     "index.html": "/secret-santa/index.html",
-    "precache-manifest.6c7da795a0c59d22943f3b98b7ddc5c2.js": "/secret-santa/precache-manifest.6c7da795a0c59d22943f3b98b7ddc5c2.js",
+    "precache-manifest.1203ec7095dc4ad8ef37ca706063d27d.js": "/secret-santa/precache-manifest.1203ec7095dc4ad8ef37ca706063d27d.js",
     "service-worker.js": "/secret-santa/service-worker.js",
     "static/css/main.830e19f2.chunk.css.map": "/secret-santa/static/css/main.830e19f2.chunk.css.map",
     "static/media/logo.svg": "/secret-santa/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ec9bbe7b.js",
     "static/js/2.b5d0a177.chunk.js",
     "static/css/main.830e19f2.chunk.css",
-    "static/js/main.85090e30.chunk.js"
+    "static/js/main.04666cab.chunk.js"
   ]
 }
